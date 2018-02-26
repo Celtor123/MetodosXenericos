@@ -2,7 +2,6 @@
 package metodosxenericos;
 
 import java.util.ArrayList;
-import static javafx.scene.input.KeyCode.T;
 
 public class MetodosXenericos {
 
@@ -11,7 +10,7 @@ public class MetodosXenericos {
    ArrayList<String>lista= new ArrayList<>();
    lista.add("a"+"a"+"df"+"we");
    lista.add("Hola");
-   lista.add("eeee");
+   lista.add("eee");
    lista.add("ese");
    lista.add("qw");
    System.out.println(lista);
